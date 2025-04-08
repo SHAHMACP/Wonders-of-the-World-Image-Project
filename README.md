@@ -1,5 +1,4 @@
 # 🌍 Wonders of the World - Image Recognition & Analysis
-
 This project explores and analyzes images of the **12 Wonders of the World** using computer vision and basic data analytics techniques.
 
 ## 🏁 Project Overview
